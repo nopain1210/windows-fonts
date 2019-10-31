@@ -1,6 +1,6 @@
 
 # Windows Standard Fonts
-Fonts extract from Windows 10 iso.
+Extract and convert fonts from Windows 10 iso.
 
 **Install on Linux:**
 
