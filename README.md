@@ -8,3 +8,6 @@ Fonts extract from Windows 10 iso.
     $ cd windows-fonts
     $ sudo cp -rf "Windows 10 Fonts" /usr/share/fonts
     $ sudo fc-cache -fv
+
+    
+    
